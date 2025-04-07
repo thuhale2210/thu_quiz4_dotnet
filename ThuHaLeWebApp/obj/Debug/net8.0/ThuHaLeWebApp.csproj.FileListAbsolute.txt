@@ -32,3 +32,4 @@ C:\Users\kietg\source\repos\ThuHaLeWebApp\ThuHaLeWebApp\obj\Debug\net8.0\refint\
 C:\Users\kietg\source\repos\ThuHaLeWebApp\ThuHaLeWebApp\obj\Debug\net8.0\ThuHaLeWebApp.pdb
 C:\Users\kietg\source\repos\ThuHaLeWebApp\ThuHaLeWebApp\obj\Debug\net8.0\ThuHaLeWebApp.genruntimeconfig.cache
 C:\Users\kietg\source\repos\ThuHaLeWebApp\ThuHaLeWebApp\obj\Debug\net8.0\ref\ThuHaLeWebApp.dll
+C:\Users\kietg\source\repos\ThuHaLeWebApp\ThuHaLeWebApp\obj\Debug\net8.0\ThuHaLeWebApp.sourcelink.json

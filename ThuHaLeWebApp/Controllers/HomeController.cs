@@ -15,6 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
+        ViewBag.Message = "Database access has already been done on April 1, 2025 by Thu Ha Le";
         return View();
     }
 
